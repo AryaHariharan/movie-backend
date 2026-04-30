@@ -1,5 +1,6 @@
 package com.movie.booking.Controller;
 
+import com.movie.booking.Entity.User;
 import com.movie.booking.Repository.UserRepository;
 import com.movie.booking.Security.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
